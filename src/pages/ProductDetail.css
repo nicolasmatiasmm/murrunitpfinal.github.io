@@ -1,0 +1,19 @@
+.product-detail {
+    text-align: center;
+  }
+  
+  .product-detail-image {
+    max-width: 400px;
+    border-radius: 10px;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
